@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Duued/duued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary><strong>Information</strong></summary>
+  <ul>
+    <li><a href="https://en.pronouns.page/@dog_knife" target="_blank">Pronouns.page</a></li>
+  </ul>
+ </details>
 
-### Currently working on: Corrupted L and Collaborating with Clari
+<details>
+  <summary><strong>Discord Links</strong></summary>
+  <ul>
+    <li>Discord: Dog Knife#6085</li>
+    <li><a href="https://dsc.gg/lgbtqland" target="_blank">My Discord Server (LGBTQ+ Land)</a></li>
+    <li><a href="https://discord.gg/vB32P6FmPX" target="_blank">Froggie Cult</a></li>
+  </ul>
+ </details>
