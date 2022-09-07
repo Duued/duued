@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <details>
-  <summary><strong>Information</strong></summmary>
+  <summary><strong>Information</strong></summary>
   <ul>
     <li><a href="https://en.pronouns.page/@dog_knife" target="_blank">Pronouns.page</a></li>
   </ul>
-</details>
+ </details>
+
 <details>
   <summary><strong>Discord Links</strong></summary>
   <ul>
