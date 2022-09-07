@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 style="text-align: center">Welcome to my profile. This is a Work in Progress, and hopefully more will be added!</h1>
+
 <details>
   <summary><strong>Information</strong></summary>
   <ul>
     <li><a href="https://en.pronouns.page/@dog_knife" target="_blank">Pronouns.page</a></li>
   </ul>
  </details>
-
+<hr />
 <details>
   <summary><strong>Discord Links</strong></summary>
   <ul>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
     <li><a href="https://discord.gg/vB32P6FmPX" target="_blank">Froggie Cult</a></li>
   </ul>
  </details>
-
+<hr />
  <details>
   <summary><strong>Programming languages used</strong></summary>
   <ul style="list-style-type: circle">
