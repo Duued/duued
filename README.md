@@ -30,4 +30,14 @@ Here are some ideas to get you started:
     <li><a href="https://discord.gg/vB32P6FmPX" target="_blank">Froggie Cult</a></li>
   </ul>
  </details>
+
+ <details>
+  <summary><strong>Programming languages used</strong></summary>
+  <ol style="list-style-type: circle">
+    <li>LUA (for Roblox)</li>
+    <li>Python (Discord Bot Development)</li>
+    <li>Visual Basic (School Computer Programming classes 1 & 2)</li>
+    <li><abbr title="HyperText Markup Language">html</abbr> and JavaScript</li>
+  </ol>
+ </details>
 <h6>Have a very nice day/evening</h6>
