@@ -9,7 +9,7 @@
 <hr />
 <details>
   <summary><strong>Discord Links</strong></summary>
-  <ul>
+  <ul style="list-style-type: circle">
     <li>Discord: Dog Knife#6085</li>
     <li><a href="https://dsc.gg/lgbtqland" target="_blank">My Discord Server (LGBTQ+ Land)</a></li>
     <li><a href="https://discord.gg/vB32P6FmPX" target="_blank">Froggie Cult</a></li>
@@ -21,9 +21,9 @@
   <ul style="list-style-type: circle">
     <li>LUA (for Roblox)</li>
     <li><a href="https://python.org">Python</a> (Discord Bot Development)</li>
-    <li>Visual Basic (School Computer Programming classes 1 & 2)</li>
-    <li><abbr title="HyperText Markup Language">html</abbr> and <abbr title="JavaScript">JS</abbr> (soon)</li>
+    <li>Visual Basic (School Computer Programming classes #'s 1 & 2)</li>
+    <li>html and JavaScript (soon)</li>
   </ul>
  </details>
-<h5><abbr title="JavaScript Object Notation">JSON</abbr> is NOT a Database.</h5>
+<h5 style="font-weight: bold">JSON is NOT a Database.</h5>
 <h6>Have a very good day/evening</h6>
