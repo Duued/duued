@@ -25,5 +25,5 @@
     <li>html and JavaScript (soon)</li>
   </ul>
  </details>
-<h5 style="font-weight: bold">JSON is NOT a Database.</h5>
+<h5>JSON is <strong>NOT</strong> a Database.</h5>
 <h6>Have a very good day/evening</h6>
