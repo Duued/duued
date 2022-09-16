@@ -1,5 +1,5 @@
 <h1 style="text-align: center">Welcome to my profile. This is a Work in Progress, and hopefully more will be added!</h1>
-
+<hr/>
 <details>
   <summary><strong>Information</strong></summary>
   <ul>
@@ -20,9 +20,10 @@
   <summary><strong>Programming languages used</strong></summary>
   <ul style="list-style-type: circle">
     <li>LUA (for Roblox)</li>
-    <li>Python (Discord Bot Development)</li>
+    <li><a href="https://python.org">Python</a> (Discord Bot Development)</li>
     <li>Visual Basic (School Computer Programming classes 1 & 2)</li>
-    <li><abbr title="HyperText Markup Language">html</abbr> and JavaScript</li>
+    <li><abbr title="HyperText Markup Language">html</abbr> and <abbr title="JavaScript">JS</abbr> (soon)</li>
   </ul>
  </details>
-<h6>Have a very nice day/evening</h6>
+<h5><abbr title="JavaScript Object Notation">JSON</abbr> is NOT a Database.</h5>
+<h6>Have a very good day/evening</h6>
