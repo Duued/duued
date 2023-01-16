@@ -22,7 +22,7 @@
     <li>LUA (for Roblox)</li>
     <li><a href="https://python.org">Python</a> (Discord Bot Development)</li>
     <li>Visual Basic (School Computer Programming classes #'s 1 & 2)</li>
-    <li>html and JavaScript (soon)</li>
+    <li>HTML and JavaScript (for websites)</li>
   </ul>
  </details>
 <h5>JSON is <strong>NOT</strong> a Database.</h5>
