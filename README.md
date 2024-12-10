@@ -8,11 +8,12 @@
  </details>
 <hr />
 <details>
-  <summary><strong>Discord Links</strong></summary>
+  <summary><strong>Socials and Links</strong></summary>
   <ul style="list-style-type: circle">
-    <li>Discord: Dog Knife#6085</li>
-    <li><a href="https://dsc.gg/lgbtqland" target="_blank">My Discord Server (LGBTQ+ Land)</a></li>
-    <li><a href="https://discord.gg/vB32P6FmPX" target="_blank">Froggie Cult</a></li>
+    <li>Discord: @dogknife</li>
+    <li>Instagram: <a href="https://instagram.com/ryglassman">@ryglassman</li>
+    <li>Website: <a href="https://ryglassman.com">https://ryglassman.com</a>/li>
+    <li>Photography Website: <a href="https://ryglassphoto.com">https://ryglassphoto.com</a></li>
   </ul>
  </details>
 <hr />
