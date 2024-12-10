@@ -1,10 +1,5 @@
 <h1 style="text-align: center">Welcome to my profile. This is a Work in Progress, and hopefully more will be added!</h1>
 <hr/>
-<strong>Information</strong>
-  <ul>
-    <li><a href="https://en.pronouns.page/@dog_knife" target="_blank">Pronouns.page</a></li>
-  </ul>
-<hr />
 <strong>Socials and Links</strong>
   <ul style="list-style-type: circle">
     <li>Discord: @dogknife</li>
