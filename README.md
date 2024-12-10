@@ -11,7 +11,7 @@
   <summary><strong>Socials and Links</strong></summary>
   <ul style="list-style-type: circle">
     <li>Discord: @dogknife</li>
-    <li>Instagram: <a href="https://instagram.com/ryglassman">@ryglassman</li>
+    <li>Instagram: <a href="https://instagram.com/ryglassman">@ryglassman</a></li>
     <li>Website: <a href="https://ryglassman.com">https://ryglassman.com</a>/li>
     <li>Photography Website: <a href="https://ryglassphoto.com">https://ryglassphoto.com</a></li>
   </ul>
